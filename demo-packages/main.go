@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"building-web-services/menu"
+	"demo-packages/menu"
 )
 
 
